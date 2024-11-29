@@ -1,0 +1,12 @@
+/*header*/
+#navbar{
+  border: solid black;
+  margin-left: 60%;
+}
+.nav-item{
+    background-color: aliceblue;
+}
+p{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}   
